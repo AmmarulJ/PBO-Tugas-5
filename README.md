@@ -1,2 +1,2 @@
 # Tugas5PBO
-PBO OOP CRUD with PHP and Database MySQL
+Tugas PBO OOP PHP with MySQL Database
